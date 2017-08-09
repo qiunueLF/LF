@@ -1,1 +1,1 @@
-# first of github project
+# first github project
